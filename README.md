@@ -83,9 +83,9 @@
 ---
 
 # 📫 Connect with Me
-
-* 💼 LinkedIn *(Coming Soon)*
-* 📧 Email: *(Add your email here)*
+<!-- para abrir y --> 
+<!--* 💼 LinkedIn *(Coming Soon)*--> 
+<!--* 📧 Email: *(Add your email here)*--> 
 
 ---
 
